@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Youtube_Reactjs_App/static/css/main.c3d7c0ea.chunk.css",
+    "main.js": "/Youtube_Reactjs_App/static/js/main.efb50629.chunk.js",
+    "main.js.map": "/Youtube_Reactjs_App/static/js/main.efb50629.chunk.js.map",
+    "runtime-main.js": "/Youtube_Reactjs_App/static/js/runtime-main.e5dc4df5.js",
+    "runtime-main.js.map": "/Youtube_Reactjs_App/static/js/runtime-main.e5dc4df5.js.map",
+    "static/js/2.bbea8a42.chunk.js": "/Youtube_Reactjs_App/static/js/2.bbea8a42.chunk.js",
+    "static/js/2.bbea8a42.chunk.js.map": "/Youtube_Reactjs_App/static/js/2.bbea8a42.chunk.js.map",
+    "index.html": "/Youtube_Reactjs_App/index.html",
+    "static/css/main.c3d7c0ea.chunk.css.map": "/Youtube_Reactjs_App/static/css/main.c3d7c0ea.chunk.css.map",
+    "static/js/2.bbea8a42.chunk.js.LICENSE.txt": "/Youtube_Reactjs_App/static/js/2.bbea8a42.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e5dc4df5.js",
+    "static/js/2.bbea8a42.chunk.js",
+    "static/css/main.c3d7c0ea.chunk.css",
+    "static/js/main.efb50629.chunk.js"
+  ]
+}

@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/App.css"],"names":[],"mappings":"AAAA,IACE,oBAAqB,CACrB,UAAY,CACZ,YACF,CACA,KACE,SACF,CAEA,WACE,wBACF","file":"main.c3d7c0ea.chunk.css","sourcesContent":[".yt {\n  background-color: red;\n  color: white;\n  padding: 20px;\n}\n.yt1{\n  width:80%\n}\n\n.container{\n  background-color:lightgrey;\n}"]}
